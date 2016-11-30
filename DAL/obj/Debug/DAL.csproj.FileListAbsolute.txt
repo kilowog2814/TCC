@@ -1,0 +1,119 @@
+C:\Users\cleit_000\Desktop\My Shared Folder\TCC - C#\DAL\bin\Debug\DAL.dll
+C:\Users\cleit_000\Desktop\My Shared Folder\TCC - C#\DAL\bin\Debug\DAL.pdb
+C:\Users\cleit_000\Desktop\My Shared Folder\TCC - C#\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\cleit_000\Desktop\My Shared Folder\TCC - C#\DAL\obj\Debug\DAL.dll
+C:\Users\cleit_000\Desktop\My Shared Folder\TCC - C#\DAL\obj\Debug\DAL.pdb
+C:\Users\ETESP\Desktop\TCC C#\DAL\bin\Debug\DAL.dll
+C:\Users\ETESP\Desktop\TCC C#\DAL\bin\Debug\DAL.pdb
+C:\Users\ETESP\Desktop\TCC C#\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ETESP\Desktop\TCC C#\DAL\obj\Debug\DAL.dll
+C:\Users\ETESP\Desktop\TCC C#\DAL\obj\Debug\DAL.pdb
+Z:\C# - 03-09\DAL\bin\Debug\DAL.dll
+Z:\C# - 03-09\DAL\bin\Debug\DAL.pdb
+Z:\C# - 03-09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\C# - 03-09\DAL\obj\Debug\DAL.dll
+Z:\C# - 03-09\DAL\obj\Debug\DAL.pdb
+C:\Users\Anderson\Desktop\C# - 03-09\DAL\bin\Debug\DAL.dll
+C:\Users\Anderson\Desktop\C# - 03-09\DAL\bin\Debug\DAL.pdb
+C:\Users\Anderson\Desktop\C# - 03-09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Anderson\Desktop\C# - 03-09\DAL\obj\Debug\DAL.dll
+C:\Users\Anderson\Desktop\C# - 03-09\DAL\obj\Debug\DAL.pdb
+G:\TCC\C# - 20-09\DAL\bin\Debug\DAL.dll
+G:\TCC\C# - 20-09\DAL\bin\Debug\DAL.pdb
+G:\TCC\C# - 20-09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\TCC\C# - 20-09\DAL\obj\Debug\DAL.dll
+G:\TCC\C# - 20-09\DAL\obj\Debug\DAL.pdb
+G:\TCC\C# - 21-09\DAL\bin\Debug\DAL.dll
+G:\TCC\C# - 21-09\DAL\bin\Debug\DAL.pdb
+G:\TCC\C# - 21-09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\TCC\C# - 21-09\DAL\obj\Debug\DAL.dll
+G:\TCC\C# - 21-09\DAL\obj\Debug\DAL.pdb
+I:\TCC\C# - 21-09\DAL\bin\Debug\DAL.dll
+I:\TCC\C# - 21-09\DAL\bin\Debug\DAL.pdb
+I:\TCC\C# - 21-09\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\TCC\C# - 21-09\DAL\obj\Debug\DAL.dll
+I:\TCC\C# - 21-09\DAL\obj\Debug\DAL.pdb
+G:\TCC\C# - 05-10\DAL\bin\Debug\DAL.dll
+G:\TCC\C# - 05-10\DAL\bin\Debug\DAL.pdb
+G:\TCC\C# - 05-10\DAL\obj\Debug\DAL.dll
+G:\TCC\C# - 05-10\DAL\obj\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\C# - 08-10\DAL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\C# - 08-10\DAL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\C# - 08-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\C# - 08-10\DAL\obj\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\C# - 08-10\DAL\obj\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\C# - 09-10\DAL\bin\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\C# - 09-10\DAL\bin\Debug\DAL.pdb
+C:\Users\Guilherme\Downloads\C# - 09-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\C# - 09-10\DAL\obj\Debug\DAL.dll
+C:\Users\Guilherme\Downloads\C# - 09-10\DAL\obj\Debug\DAL.pdb
+G:\Principal\Terceiro modulo\TCC\C#\C# - 09-10\DAL\bin\Debug\DAL.dll
+G:\Principal\Terceiro modulo\TCC\C#\C# - 09-10\DAL\bin\Debug\DAL.pdb
+G:\Principal\Terceiro modulo\TCC\C#\C# - 09-10\DAL\obj\Debug\DAL.dll
+G:\Principal\Terceiro modulo\TCC\C#\C# - 09-10\DAL\obj\Debug\DAL.pdb
+G:\Principal\Terceiro modulo\TCC\C#\C# - 09-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\conteudo\C# - 09-10\DAL\bin\Debug\DAL.dll
+I:\conteudo\C# - 09-10\DAL\bin\Debug\DAL.pdb
+I:\conteudo\C# - 09-10\DAL\obj\Debug\DAL.dll
+I:\conteudo\C# - 09-10\DAL\obj\Debug\DAL.pdb
+I:\conteudo\C# - 10-10\DAL\bin\Debug\DAL.dll
+I:\conteudo\C# - 10-10\DAL\bin\Debug\DAL.pdb
+I:\conteudo\C# - 10-10\DAL\obj\Debug\DAL.dll
+I:\conteudo\C# - 10-10\DAL\obj\Debug\DAL.pdb
+I:\conteudo\C# - 10-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\conteudo\C# - 11-10\DAL\bin\Debug\DAL.dll
+G:\conteudo\C# - 11-10\DAL\bin\Debug\DAL.pdb
+G:\conteudo\C# - 11-10\DAL\obj\Debug\DAL.dll
+G:\conteudo\C# - 11-10\DAL\obj\Debug\DAL.pdb
+I:\conteudo\TCC\C# - 13-10\DAL\bin\Debug\DAL.dll
+I:\conteudo\TCC\C# - 13-10\DAL\bin\Debug\DAL.pdb
+I:\conteudo\TCC\C# - 13-10\DAL\obj\Debug\DAL.dll
+I:\conteudo\TCC\C# - 13-10\DAL\obj\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 18-10\DAL\bin\Debug\DAL.dll
+G:\conteudo\TCC\C# - 18-10\DAL\bin\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 18-10\DAL\obj\Debug\DAL.dll
+G:\conteudo\TCC\C# - 18-10\DAL\obj\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 18-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\conteudo\TCC\C# - 20-10\DAL\bin\Debug\DAL.dll
+I:\conteudo\TCC\C# - 20-10\DAL\bin\Debug\DAL.pdb
+I:\conteudo\TCC\C# - 20-10\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\conteudo\TCC\C# - 20-10\DAL\obj\Debug\DAL.dll
+I:\conteudo\TCC\C# - 20-10\DAL\obj\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 20-10\DAL\bin\Debug\DAL.dll
+E:\conteudo\TCC\C# - 20-10\DAL\bin\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 20-10\DAL\obj\Debug\DAL.dll
+E:\conteudo\TCC\C# - 20-10\DAL\obj\Debug\DAL.pdb
+F:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.dll
+F:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.pdb
+F:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.dll
+F:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.pdb
+I:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.dll
+I:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.pdb
+I:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.dll
+I:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.dll
+E:\conteudo\TCC\C# - 01-11\DAL\bin\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.dll
+E:\conteudo\TCC\C# - 01-11\DAL\obj\Debug\DAL.pdb
+C:\Users\cleit_000\Downloads\C# - 06-11\DAL\bin\Debug\DAL.dll
+C:\Users\cleit_000\Downloads\C# - 06-11\DAL\bin\Debug\DAL.pdb
+C:\Users\cleit_000\Downloads\C# - 06-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\cleit_000\Downloads\C# - 06-11\DAL\obj\Debug\DAL.dll
+C:\Users\cleit_000\Downloads\C# - 06-11\DAL\obj\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 07-11\DAL\bin\Debug\DAL.dll
+E:\conteudo\TCC\C# - 07-11\DAL\bin\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 07-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\conteudo\TCC\C# - 07-11\DAL\obj\Debug\DAL.dll
+E:\conteudo\TCC\C# - 07-11\DAL\obj\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 10-11\DAL\bin\Debug\DAL.dll
+E:\conteudo\TCC\C# - 10-11\DAL\bin\Debug\DAL.pdb
+E:\conteudo\TCC\C# - 10-11\DAL\obj\Debug\DAL.dll
+E:\conteudo\TCC\C# - 10-11\DAL\obj\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 10-11\DAL\bin\Debug\DAL.dll
+G:\conteudo\TCC\C# - 10-11\DAL\bin\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 10-11\DAL\obj\Debug\DAL.dll
+G:\conteudo\TCC\C# - 10-11\DAL\obj\Debug\DAL.pdb
+G:\conteudo\TCC\C# - 10-11\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
